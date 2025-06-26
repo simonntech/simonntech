@@ -1,5 +1,5 @@
-## Olá mundo, 
-# eu sou o Bruno 👋
+# Olá mundo, 
+## eu sou o Bruno 👋
 
 Desenvolvedor WEB, estudante de Desenvolvimento de Sistemas na Fundação FAT, e Engenharia de Software na AMPLI.
 
@@ -9,28 +9,27 @@ Desenvolvedor WEB, estudante de Desenvolvimento de Sistemas na Fundação FAT, e
 
 :ok_hand: Consigo também entregar soluções mais rápidas e completas através de sistemas alternativos como Wordpress para gerenciamento de conteúdos.
 
+## Tecnologias
 <div>
-<a href="https://github.com/simonntech">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?simonntech&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?simonntech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="50" height="50"/>
 </div>
 
-# Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="50" height="50"/>
 
-# Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>
-
-# Contato
+## Estou aprendendo
 <div>
-<a href="https://instagram.com/simonntech" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato.simon.tech@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/brunosimonferreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>
+</div>
+
+## Contato
+<div>
+  <a href="https://instagram.com/simonntech" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.simon.tech@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunosimonferreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
