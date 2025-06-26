@@ -9,6 +9,13 @@ Desenvolvedor WEB, estudante de Desenvolvimento de Sistemas na Fundação FAT, e
 
 :ok_hand: Consigo também entregar soluções mais rápidas e completas através de sistemas alternativos como Wordpress para gerenciamento de conteúdos.
 
+## Projetos
+<div>
+  <a href="https://simonntechnews.rf.gd/">Simon Tech News</a> - Portal de notícias do mundo da tecnologia. <br>
+  <a href="https://simonntech.github.io/lotoGen/">Loto GEN</a> - Sistema de gerenciamento de números gerados para jogar loteria. <br>
+  <a href="https://simonntech.github.io/portfolio/">Portfólio</a> - Para mais projetos, dê uma olhada no meu Portfólio feito por mim mesmo! 🤙
+</div>
+
 ## Tecnologias
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="50" height="50"/>
@@ -17,7 +24,6 @@ Desenvolvedor WEB, estudante de Desenvolvimento de Sistemas na Fundação FAT, e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="50" height="50"/>
 </div>
-
 
 ## Estou aprendendo
 <div>
