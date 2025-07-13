@@ -11,9 +11,9 @@ WEB Developer, student of Systems Development at FAT Foundation and Software Eng
 
 ## Projects
 <div>
-  <a href="https://simonntechnews.rf.gd/">Simon Tech News</a> - Portal de notícias do mundo da tecnologia. <br>
-  <a href="https://simonntech.github.io/lotoGen/">Loto GEN</a> - Sistema de gerenciamento de números gerados para jogar loteria. <br>
-  <a href="https://simonntech.github.io/portfolio/">Portfólio</a> - Para mais projetos, dê uma olhada no meu Portfólio feito por mim mesmo! 🤙
+  <a href="https://simonntechnews.rf.gd/">Simon Tech News</a> -News portal for the world of technology. <br>
+  <a href="https://simonntech.github.io/lotoGen/">Loto GEN</a> - System for managing numbers generated for playing the lottery. <br>
+  <a href="https://simonntech.github.io/portfolio/">Portfólio</a> - For more projects, check out my self-made Portfolio! 🤙
 </div>
 
 ## Technologies
