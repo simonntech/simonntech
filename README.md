@@ -1,7 +1,7 @@
 # console.log("Hello, world"), 
 ## Bruno here 👋
 
-WEB Developer, student of Systems Development at FAT Foundation and Software Engineering at AMPLI.
+WEB Developer, student of Systems Development at FAT Foundation and Software Engineering at AMPLI. Studying backend!
 
 :grey_exclamation:  Worked as a Freelance Graphic Designer between 2016 and 2021 and as a Freelance Illustrator from 2017 to 2022 (and as a hobby since then). With this artistic background, my focus in development is on front-end, incorporating Design and Art concepts to make websites and systems more appealing.
 
