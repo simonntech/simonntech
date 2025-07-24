@@ -1,21 +1,28 @@
 # console.log("Hello, world"), 
 ## Bruno here 👋
 
-Begginer frontend developer, student of Systems Development at FAT Foundation and Software Engineering at AMPLI. Studying backend!
+Studying fullstack JS , student of Systems Development at FAT Foundation and Software Engineering at AMPLI.
 
-:grey_exclamation:  Worked as a Freelance Graphic Designer between 2016 and 2021 and as a Freelance Illustrator from 2017 to 2022 (and as a hobby since then). With this artistic background, my focus in development is on front-end, incorporating Design and Art concepts to make websites and systems more appealing.
+I worked as a Freelance Graphic Designer between 2016 and 2021 and as a Freelance Illustrator from 2017 to 2022 (and as a hobby since then). With this artistic background, my focus in development is on front-end, incorporating Design and Art concepts to make websites and systems more appealing.
 
-:point_right: I continue to study back-end and database knowledge to become a Fullstack JavaScript Developer, using more robust libraries and frameworks like React JS, Node JS, etc.
+Can also deliver faster and more complete solutions through alternative systems like WordPress for content management. :ok_hand:
 
-:ok_hand: Can also deliver faster and more complete solutions through alternative systems like WordPress for content management.
-
+## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonntech&show_icons=true&theme=github_dark)](https://github.com/simonntech/github-readme-stats)
 
 ## Projects
+### Frontend
 <div>
-  <a href="https://simonntechnews.rf.gd/">Simon Tech News</a> -News portal for the world of technology. <br>
+  <a href="https://simonntechnews.rf.gd/">Simon Tech News</a> - News portal for the world of technology. <br>
   <a href="https://simonntech.github.io/lotoGen/">Loto GEN</a> - System for managing numbers generated for playing the lottery. <br>
   <a href="https://simonntech.github.io/portfolio/">Portfólio</a> - For more projects, check out my self-made Portfolio! 🤙
+</div>
+
+### Backend
+<div>
+  <a href="https://github.com/simonntech/projetoChampionsLeague">Champions League API </a> - REST API with some Champions League Players and Clubs, study from Bootcamp. <br>
+  <a href="https://github.com/simonntech/tattooStylesAPI">Free Tattoo Styles API</a> - REST API with tattoo styles. <br>
+  <a href="https://github.com/simonntech/mari_clients_api">Clients API</a> - REST API for clients.
 </div>
 
 ## Technologies
