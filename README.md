@@ -22,7 +22,7 @@ Can also deliver faster and more complete solutions through alternative systems 
 <div>
   <a href="https://github.com/simonntech/projetoChampionsLeague">Champions League API </a> - REST API with some Champions League Players and Clubs, study from Bootcamp. <br>
   <a href="https://github.com/simonntech/tattooStylesAPI">Free Tattoo Styles API</a> - REST API with tattoo styles. <br>
-  <a href="https://github.com/simonntech/mari_clients_api">Tattoo clients API</a> - REST API for tattooer clients.
+  Check more backend projects and studies in my repositories! 😀
 </div>
 
 ## Technologies
