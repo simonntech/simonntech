@@ -9,6 +9,8 @@ Begginer frontend developer, student of Systems Development at FAT Foundation an
 
 :ok_hand: Can also deliver faster and more complete solutions through alternative systems like WordPress for content management.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonntech&show_icons=true&theme=github_dark)](https://github.com/simonntech/github-readme-stats)
+
 ## Projects
 <div>
   <a href="https://simonntechnews.rf.gd/">Simon Tech News</a> -News portal for the world of technology. <br>
