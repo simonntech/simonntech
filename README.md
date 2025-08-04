@@ -1,5 +1,5 @@
 # "Hello, world", 
-## Bruno here 👋
+## Bruno here!
 
 Studying fullstack JS , student of Systems Development at FAT Foundation and Software Engineering at AMPLI(Anhanguera).
 
