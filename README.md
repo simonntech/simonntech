@@ -25,6 +25,13 @@ Can also deliver faster and more complete solutions through alternative systems 
   Check more backend projects and studies in my repositories! 😀
 </div>
 
+### JS Fullstack
+<div>
+  Custom Tattoo Clients Management: <br>
+  - <a href="https://github.com/simonntech/mari_clients_api">API</a> - REST API with routes and CRUD.<br>
+  - <a href="https://github.com/simonntech/mari_ink">Frontend </a> - Frontend page with Login auth, only the owner can acess.
+</div>
+
 ## Technologies
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" height="50"/>
