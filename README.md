@@ -7,9 +7,6 @@ I worked as a Freelance Graphic Designer between 2016 and 2021 and as a Freelanc
 
 Can also deliver faster and more complete solutions through alternative systems like WordPress for content management. :ok_hand:
 
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonntech&show_icons=true&theme=github_dark)](https://github.com/simonntech/github-readme-stats)
-
 ## Projects
 ### Frontend
 <div>
