@@ -1,4 +1,4 @@
-# "Hello, world", 
+# "Hello, world"
 ## Bruno here!
 
 Studying Systems Development at FAT Foundation and Software Engineering at AMPLI(Anhanguera).
