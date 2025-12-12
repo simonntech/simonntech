@@ -7,7 +7,7 @@ Atuei como Designer Gráfico Freelancer entre 2016 e 2021 e como Ilustrador Free
 
 Estou focando meus estudos ultimamente em Tecnologia da Informação de um modo geral, assim como bancos de dados e backend no geral.
 
-Também desenvolvo soluções ágeis e completas por meio de plataformas como o WordPress, otimizando a entrega e o gerenciamento de conteúdo. :ok_hand:
+Também desenvolvo soluções ágeis e completas por meio de plataformas como o WordPress, otimizando a entrega e o gerenciamento de conteúdo.
 
 ## Projetos
 ### Frontend
@@ -21,7 +21,7 @@ Também desenvolvo soluções ágeis e completas por meio de plataformas como o 
 <div>
   <a href="https://github.com/simonntech/projetoChampionsLeague">Champions League API </a> - REST API de estudo para o bootcamp da DIO. <br>
   <a href="https://github.com/simonntech/tattooStylesAPI">Free Tattoo Styles API</a> - REST API com estilos de tattoo. <br>
-  Se quiser, veja mais projetos backend nos meus repositórios! 😀
+  Se quiser, veja mais projetos backend nos meus repositórios! 
 </div>
 
 ### Fullstack
