@@ -10,21 +10,17 @@ Estou focando meus estudos ultimamente em Tecnologia da Informação de um modo 
 Também desenvolvo soluções ágeis e completas por meio de plataformas como o WordPress, otimizando a entrega e o gerenciamento de conteúdo.
 
 ## Projetos
-### Frontend
 <div>
   <a href="https://simonntechnews.rf.gd/">Simon Tech News</a> - Portal de notícias de tecnologia. <br>
   <a href="https://simonntech.github.io/lotoGen/">Loto GEN</a> - Sistema que gera números aleatórios de loteria, que salva os jogos localmente no navegador. <br>
   <a href="https://simonntech.github.io/portfolio/">Portfólio</a> - Para conhecer mais projetos pessoais que fiz até agora.
 </div>
-
-### Backend
 <div>
   <a href="https://github.com/simonntech/projetoChampionsLeague">Champions League API </a> - REST API de estudo para o bootcamp da DIO. <br>
   <a href="https://github.com/simonntech/tattooStylesAPI">Free Tattoo Styles API</a> - REST API com estilos de tattoo. <br>
-  Se quiser, veja mais projetos backend nos meus repositórios! 
 </div>
 
-### Fullstack
+### Projeto Fullstack - JS, TS e Node
 <div>
   Sistema de Clientes para Tatuador: <br>
   - <a href="https://github.com/simonntech/mari_clients_api">API</a> - REST API com rotas e CRUD dos clientes.<br>
