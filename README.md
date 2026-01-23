@@ -11,6 +11,7 @@ Também desenvolvo soluções ágeis e completas por meio de plataformas como o 
 
 ## Projetos
 <div>
+  <a href="https://simonntechnews.rf.gd/">Taxas Vigilância Sanitária Municipal de Andradina/SP</a> - Aplicação simples para gerar e calcular taxas de atividades que necessitem de licença sanitária <br>
   <a href="https://simonntechnews.rf.gd/">Simon Tech News</a> - Portal de notícias de tecnologia. <br>
   <a href="https://simonntech.github.io/lotoGen/">Loto GEN</a> - Sistema que gera números aleatórios de loteria, que salva os jogos localmente no navegador. <br>
   <a href="https://simonntech.github.io/portfolio/">Portfólio</a> - Para conhecer mais projetos pessoais que fiz até agora.
