@@ -1,13 +1,5 @@
-# "Hello, world"
+# console.log("Olá, mundo!")
 ## Meu nome é Bruno Simon!
-
-Atualmente, curso Desenvolvimento de Sistemas pela Fundação FAT e Engenharia de Software pela AMPLI (Anhanguera).
-
-Atuei como Designer Gráfico Freelancer entre 2016 e 2021 e como Ilustrador Freelancer de 2017 a 2022, atividade que mantenho como hobby. Essa base artística orienta meu foco no desenvolvimento front-end, integrando conceitos de design e arte para criar interfaces mais atraentes e intuitivas.
-
-Estou focando meus estudos ultimamente em Tecnologia da Informação de um modo geral, assim como bancos de dados e backend no geral.
-
-Também desenvolvo soluções ágeis e completas por meio de plataformas como o WordPress, otimizando a entrega e o gerenciamento de conteúdo.
 
 ## Projetos
 <div>
