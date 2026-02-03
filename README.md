@@ -16,7 +16,7 @@
 ### Projeto Fullstack - JS, TS e Node
 <div>
   Sistema de Clientes para Tatuador: <br>
-  - <a href="https://github.com/simonntech/mari_clients_api">API</a> - REST API com rotas e CRUD dos clientes.<br>
+  - <a href="https://github.com/simonntech/mari_clients_api">API</a> - REST API com rotas e CRUD de clientes.<br>
   - <a href="https://github.com/simonntech/mari_ink">Frontend </a> - Página com solicitação de login, que não é possível criar um novo usuário, apenas o usuário criado previamente que pode acessar o sistema.
 </div>
 
