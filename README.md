@@ -1,19 +1,13 @@
-# console.log("Olá, mundo!")
-## Meu nome é Bruno Simon!
-
-## Projetos
+## Alguns Projetos
 <div>
   <a href="https://simonntechnews.rf.gd/">Taxas Vigilância Sanitária Municipal de Andradina/SP</a> - Aplicação simples para gerar e calcular taxas de atividades que necessitem de licença sanitária <br>
   <a href="https://simonntechnews.rf.gd/">Simon Tech News</a> - Portal de notícias de tecnologia. <br>
-  <a href="https://simonntech.github.io/lotoGen/">Loto GEN</a> - Sistema que gera números aleatórios de loteria, que salva os jogos localmente no navegador. <br>
+  <a href="https://github.com/simonntech/perguntas">Perguntas & Respostas</a> - Atividade do Curso Guia do Programador. <br>
+  <a href="https://github.com/simonntech/tattooStylesAPI">Free Tattoo Styles API</a> - REST API com estilos de tattoo. <br>
   <a href="https://simonntech.github.io/portfolio/">Portfólio</a> - Para conhecer mais projetos pessoais que fiz até agora.
 </div>
-<div>
-  <a href="https://github.com/simonntech/projetoChampionsLeague">Champions League API </a> - REST API de estudo para o bootcamp da DIO. <br>
-  <a href="https://github.com/simonntech/tattooStylesAPI">Free Tattoo Styles API</a> - REST API com estilos de tattoo. <br>
-</div>
 
-### Projeto Fullstack - JS, TS e Node
+### Projeto Fullstack - Javascript
 <div>
   Sistema de Clientes para Tatuador: <br>
   - <a href="https://github.com/simonntech/mari_clients_api">API</a> - REST API com rotas e CRUD de clientes.<br>
