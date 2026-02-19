@@ -1,6 +1,6 @@
 ## Alguns Projetos
 <div>
-  <a href="https://simonntechnews.rf.gd/">Taxas Vigilância Sanitária Municipal de Andradina/SP</a> - Aplicação simples para gerar e calcular taxas de atividades que necessitem de licença sanitária <br>
+  <a href="https://simonntech.github.io/taxasVisa/">Taxas Vigilância Sanitária </a> - Aplicação simples para gerar e calcular taxas de atividades que necessitem de licença sanitária do município de Andradina-SP<br>
   <a href="https://simonntechnews.rf.gd/">Simon Tech News</a> - Portal de notícias de tecnologia. <br>
   <a href="https://github.com/simonntech/perguntas">Perguntas & Respostas</a> - Atividade do Curso Guia do Programador. <br>
   <a href="https://github.com/simonntech/tattooStylesAPI">Free Tattoo Styles API</a> - REST API com estilos de tattoo. <br>
