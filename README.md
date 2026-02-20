@@ -1,3 +1,8 @@
+# Quem sou eu
+Graduando em Engenharia de Software, apaixonado por tecnologia desde sempre, eterno aprendiz.
+![ComputerNerdGIF](https://github.com/user-attachments/assets/a56c6821-a6da-404a-93fe-44f09d8e648c)
+
+
 ## Alguns Projetos
 <div>
   <a href="https://simonntech.github.io/taxasVisa/">Taxas Vigilância Sanitária </a> - Aplicação simples para gerar e calcular taxas de atividades que necessitem de licença sanitária do município de Andradina-SP<br>
