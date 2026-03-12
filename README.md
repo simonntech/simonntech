@@ -1,7 +1,9 @@
-# Quem sou eu
-Graduando em Engenharia de Software, apaixonado por tecnologia desde sempre, eterno aprendiz.
-![ComputerNerdGIF](https://github.com/user-attachments/assets/a56c6821-a6da-404a-93fe-44f09d8e648c)
+![HelloWorldSeytonicGIF](https://github.com/user-attachments/assets/f7d2ff9c-62e8-4288-941c-2b97357149a9)
 
+# Quem sou eu
+Desenvolvedor, Graduando em Engenharia de Software, apaixonado por tecnologia desde sempre, eterno aprendiz. <br>
+Sempre buscando conhecimento nas áreas de desenvolvimento, atualmente focado em JS e TS no backend com Node. <br>
+Devagar e sempre!
 
 ## Alguns Projetos
 <div>
