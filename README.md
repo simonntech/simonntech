@@ -3,7 +3,6 @@
 # Quem sou eu
 Desenvolvedor, Graduando em Engenharia de Software, apaixonado por tecnologia desde sempre, eterno aprendiz. <br>
 Sempre buscando conhecimento nas áreas de desenvolvimento, atualmente focado em JS e TS no backend com Node. <br>
-Devagar e sempre!
 
 ## Alguns Projetos
 <div>
