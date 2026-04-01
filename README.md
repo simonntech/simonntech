@@ -2,6 +2,9 @@
 
 <h3 align="center">Estudante de Engenharia de Software | Desenvolvedor</h3>
 
+### ⌨️ [Portfólio](https://simonntech.github.io/portfolio/)
+### 📰 [Blog de Notícias Tech](https://simonntechnews.rf.gd)
+
 ---
 
 ### 👨‍💻 Sobre mim
