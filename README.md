@@ -1,27 +1,32 @@
-![HelloWorldSeytonicGIF](https://github.com/user-attachments/assets/f7d2ff9c-62e8-4288-941c-2b97357149a9)
+<h2 align="center">Olá, eu sou o Bruno Simon! 👋</h2>
 
-# Quem sou eu
-Desenvolvedor, Graduando em Engenharia de Software, apaixonado por tecnologia desde sempre, eterno aprendiz. <br>
-Sempre buscando conhecimento nas áreas de desenvolvimento, atualmente focado em JS e TS no backend com Node. <br>
+<h3 align="center">Estudante de Engenharia de Software | Desenvolvedor</h3>
 
-## Alguns Projetos
-<div>
-  <a href="https://simonntech.github.io/taxasVisa/">Taxas Vigilância Sanitária </a> - Aplicação simples para gerar e calcular taxas de atividades que necessitem de licença sanitária do município de Andradina-SP<br>
-  <a href="https://simonntechnews.rf.gd/">Simon Tech News</a> - Portal de notícias de tecnologia. <br>
-  <a href="https://github.com/simonntech/perguntas">Perguntas & Respostas</a> - Atividade do Curso Guia do Programador. <br>
-  <a href="https://github.com/simonntech/tattooStylesAPI">Free Tattoo Styles API</a> - REST API com estilos de tattoo. <br>
-  <a href="https://simonntech.github.io/portfolio/">Portfólio</a> - Para conhecer mais projetos pessoais que fiz até agora.
-</div>
+---
 
-### Projeto Fullstack - Javascript
-<div>
-  Sistema de Clientes para Tatuador: <br>
-  - <a href="https://github.com/simonntech/mari_clients_api">API</a> - REST API com rotas e CRUD de clientes.<br>
-  - <a href="https://github.com/simonntech/mari_ink">Frontend </a> - Página com solicitação de login, que não é possível criar um novo usuário, apenas o usuário criado previamente que pode acessar o sistema.
-</div>
+### 👨‍💻 Sobre mim
 
-## Contato
-<div>
-  <a href = "mailto:contato.simon.tech@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunosimonferreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+* 🎓 Estudante de Engenharia de Software, apaixonado por tecnologia e por resolver problemas do mundo real através do código.
+* 💻 Com um background que une lógica de programação e versatilidade, tenho um foco especial na construção de lógicas de backend.
+* 🚀 Atuando na criação de soluções freelance e sistemas sob medida para pequenos negócios (como ferramentas automatizadas de orçamentos e geração de PDFs).
+* 🌱 Atualmente mergulhando de cabeça no ecossistema **Javascript e Typescript(Node)** para desenvolvimento de APIs robustas.
+
+### 🛠️ Tecnologias e Ferramentas
+
+* **Backend:** Javascript, Typescript
+* **Frontend & Mobile:** JavaScript, HTML, CSS, React Native
+
+### 🔭 O que estou construindo no momento
+
+* 💼 **Sistemas Comerciais:** Ferramentas e automações para facilitar a rotina de pequenos empreendedores.
+
+### 📫 Como me encontrar
+
+* **E-mail:** contato.simon.tech@gmail.com
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </div>
