@@ -1,6 +1,6 @@
 <h2 align="center">Olá, eu sou o Bruno Simon! 👋</h2>
 
-<h3 align="center">Estudante de Engenharia de Software | Desenvolvedor</h3>
+<h3 align="center">Estudante de Engenharia de Software | Desenvolvedor Web</h3>
 
 ### ⌨️ [Portfólio](https://simonntech.github.io/portfolio/)
 ### 📰 [Blog de Notícias Tech](https://simonntechnews.rf.gd)
@@ -16,20 +16,9 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Backend:** Javascript, Typescript
-* **Frontend & Mobile:** JavaScript, HTML, CSS, React Native
+* **Backend:** Javascript, Typescript, Node JS, Sequelize, MySQL
+* **Frontend & Mobile:** JavaScript, HTML, CSS, React, Tailwind
 
-### 🔭 O que estou construindo no momento
-
-* 💼 **Sistemas Comerciais:** Ferramentas e automações para facilitar a rotina de pequenos empreendedores.
-
-### 📫 Como me encontrar
+### 📫 Entre em Contato
 
 * **E-mail:** contato.simon.tech@gmail.com
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</div>
