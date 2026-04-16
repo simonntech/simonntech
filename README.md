@@ -10,9 +10,9 @@
 ### 👨‍💻 Sobre mim
 
 * 🎓 Estudante de Engenharia de Software, apaixonado por tecnologia e por resolver problemas do mundo real através do código.
-* 💻 Com um background que une lógica de programação e versatilidade, tenho um foco especial na construção de lógicas de backend.
-* 🚀 Atuando na criação de soluções freelance e sistemas sob medida para pequenos negócios (como ferramentas automatizadas de orçamentos e geração de PDFs).
-* 🌱 Atualmente mergulhando de cabeça no ecossistema **Javascript e Typescript(Node)** para desenvolvimento de APIs robustas.
+* 💻 Com um background artístico e criativo, venho trazer o melhor do mundo da arte e tecnologia para entregar resultados robustos e apresentáveis.
+* 🚀 Atuando na criação de soluções freelance e sistemas sob medida para pequenos negócios.
+* 🌱 Atualmente mergulhando de cabeça no ecossistema **Javascript e Typescript(Node)** para desenvolvimento de APIs robustas, assim como React para interfaces mais leves, dinâmicas e modernas.
 
 ### 🛠️ Tecnologias e Ferramentas
 
