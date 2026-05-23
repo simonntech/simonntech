@@ -11,7 +11,7 @@
 ### 👨‍💻 Sobre mim
 
 * 🎓 Estudante de Engenharia de Software, apaixonado por tecnologia e por resolver problemas do mundo real através do código.
-* 💻 Com um background artístico e criativo, venho trazer o melhor do mundo da arte e tecnologia para entregar resultados robustos e apresentáveis.
+* 💻 Com um background artístico e criativo, venho trazer o melhor do mundo da arte e tecnologia para entregar resultados robustos e modernos visualmente.
 * 🚀 Atuando na criação de soluções freelance e sistemas sob medida para pequenos negócios.
 * 🌱 Atualmente mergulhando de cabeça no ecossistema **Javascript e Typescript(Node)** para desenvolvimento de APIs robustas, assim como React para interfaces mais leves, dinâmicas e modernas.
 
