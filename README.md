@@ -17,7 +17,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Backend:** Javascript, Typescript, Node JS, Sequelize, MySQL
+* **Backend:** Javascript, Typescript, Node JS, Sequelize, MySQL (Aprendendo e Solidificando Conhecimentos em Java)
 * **Frontend & Mobile:** JavaScript, HTML, CSS, React, Tailwind
 
 ### 📫 Entre em Contato
